@@ -1,0 +1,84 @@
+﻿TODO
+
+- Llenar la Base de Datos con la Configuracion del Sistema
+
+- Generador de Aplicaciones
+- Sistema de Consultas Medicas
+- Administrativo ( Facturacion, Nomnina, Copntabilidad )
+
+FASE 1 - CRUD DE ( PROYECTOS ) ( MODULOS ) ( SECCIONES ) ( OPCIONES DEL MENU )
+FASE 2 - CRUD ( MANT DE TABLAS ) ( MVC DINAMICO ) ( OPCIONES DE MANTENIMIENTO DE SISTEMAS )
+FASE 3 - PANTALLA DE CONSULTA ( FILTRO - DATATABLE )
+FASE 4 - PANTALLA DE RESPORTE ( FILTRO - FORMATO PDF )
+
+
+AULAS CURSOS
+
+OK - Pantalla de _orario
+OK - _uardar Correctamente cada Respuestas 
+OK - y quedarse en el mismo sitio
+
+OK - Cronometro de Inicio y Fin de la Prueba
+OK - Notacion Cientifica Solo Enteros
+
+OK - quitar el listbox - de los metros / kilometros
+OK - SE CAMBIO EL MENU
+
+OK - terminar la prueba automaticamente 
+
+- proceso - correir la prueba - al cerrar la prueba - evaluar se_un los ran_os
+
+- se cierra la prueba y se reabre
+
+- MENU - Car_ar Evaluacion en el SISTEMAS
+
+PCLAPTOP-PC\SQLEXPRESS
+
+****notacion corto
+****-notacion lar_o
+
+valor
+
+
+
+npm install electron-builder --save-dev
+npm run dist
+
+password2017
+- ver forma lineal de las respuestas
+
+hackstore.net
+
+DDRSISTEMAS
+
+MI_RAR - LOS MODELOS DE BASE DE DATOS
+
+MI_RAR - LOS DATOS MEDIANTE EL ASISTENTE DE MI_RACION
+
+SUBIR EL PROYECTO DE LARAVEL 
+CREAR LOS BRAN
+
+SEÑAS DE ACCESO A AGENDA INTEGRAL
+
+Ingreso https://agendaintegral.com
+
+Usuario CLIENTE → emilio.espinoza@outlook.com // probador2
+
+Usuario PROFESIONAL → ddrsistemas@gmail.com // probador1
+
+
+ Command line instructions
+Git global setup
+git config --global user.name "Jesus Aquino"
+git config --global user.email "jaqconsultor@gmail.com"
+
+
+Git global setup
+git config --global user.name "developer"
+git config --global user.email "developer2020@zohomail.com"
+
+
+
+developer2020@zohomail.com
+developer2000
+
